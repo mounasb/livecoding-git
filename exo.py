@@ -2,6 +2,6 @@
 
 couleurs = ["violet", "bleu", "vert", "jaune", "orange"]
 
-couleurs.append("rouge")
+couleurs.insert(5, "rouge")
 
 print(couleurs)
