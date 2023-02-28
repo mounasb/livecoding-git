@@ -2,6 +2,4 @@
 
 couleurs = ["violet", "bleu", "vert", "jaune", "orange"]
 
-# ezfzelnzfe
-
 print(couleurs)
