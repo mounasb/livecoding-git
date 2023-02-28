@@ -2,4 +2,6 @@
 
 couleurs = ["violet", "bleu", "vert", "jaune", "orange"]
 
+couleurs.append("rouge")
+
 print(couleurs)
